@@ -289,16 +289,16 @@ dfn {
   }
 
   .main {
-    margin: 0 2rem;
+    margin: 0 0rem;
   }
 
   .powered-by {
-    margin-left: 2rem;
+    margin-left: 1rem;
     margin-bottom: 0;
   }
 
   .alvara {
-    margin-right: 2rem;
+    margin-right: 1rem;
     margin-bottom: 0;
   }
 }
