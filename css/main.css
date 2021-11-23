@@ -290,6 +290,11 @@ dfn {
 
   .main {
     margin: 0 0rem;
+    padding-top: 80px;
+  }
+
+  .footer {
+    margin-top: -80px;
   }
 
   .powered-by {
