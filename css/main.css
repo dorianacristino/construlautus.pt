@@ -124,6 +124,7 @@ textarea {
   min-height: 100vh;
   flex-direction: column;
 }
+
 .center-screen p {
   font-family: 'Montserrat';
   font-weight: 300;
@@ -281,8 +282,19 @@ dfn {
    Modify as content requires.
    ========================================================================== */
 
-@media only screen and (min-width: 35em) {
+@media only screen and (max-width: 35em) {
   /* Style adjustments for viewports that meet the condition */
+  html {
+    font-size: 0.70rem;
+  }
+
+  .powered-by {
+    margin-left: 25px;
+  }
+
+  .alvara {
+    margin-right: 25px;
+  }
 }
 
 @media print,
