@@ -288,12 +288,17 @@ dfn {
     font-size: 0.70rem;
   }
 
+  .footer {
+    margin-bottom: 40px;
+  }
   .powered-by {
     margin-left: 25px;
+    margin-bottom: 0;
   }
 
   .alvara {
     margin-right: 25px;
+    margin-bottom: 0;
   }
 }
 
