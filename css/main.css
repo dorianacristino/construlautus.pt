@@ -150,10 +150,6 @@ textarea {
   flex-direction: column;
 }
 
-.main img {
-  margin-bottom: -65px;
-}
-
 .footer {
   width: 100%;
   display: flex;
