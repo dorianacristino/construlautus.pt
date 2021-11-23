@@ -288,6 +288,10 @@ dfn {
     font-size: 0.65rem;
   }
 
+  .main {
+    margin: 0 20px;
+  }
+
   .footer {
     margin-bottom: 60px;
   }
