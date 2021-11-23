@@ -286,6 +286,7 @@ dfn {
   /* Style adjustments for viewports that meet the condition */
   html {
     font-size: 0.65rem;
+    overflow: hidden;
   }
 
   .main {
